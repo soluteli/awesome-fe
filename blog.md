@@ -45,3 +45,7 @@
 ## 混合开发
 ### ReactNative
 - [React Native 已死？](https://mp.weixin.qq.com/s/RFcVAcpIjuEqzXTViLA58g) 
+
+
+## 测试
+- [如何提升 Web 应用的代码质量](https://zhuanlan.zhihu.com/p/38390005)
