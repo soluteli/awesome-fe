@@ -34,14 +34,6 @@
 - [React v16.3 版本新生命周期函数浅析及升级方案](https://zhuanlan.zhihu.com/p/36062486)
 
 
-## 解决方案
-### 页面可视化搭建工具
-- [【第1282期】页面可视化搭建工具前生今世](http://www.10tiao.com/html/293/201805/2651228709/1.html)
-
-### 滚动
-- [【第1279期】无尽滚动的复杂度](http://www.10tiao.com/html/293/201805/2651228694/1.html)
-
-
 ## 混合开发
 ### ReactNative
 - [React Native 已死？](https://mp.weixin.qq.com/s/RFcVAcpIjuEqzXTViLA58g) 
@@ -49,3 +41,13 @@
 
 ## 测试
 - [如何提升 Web 应用的代码质量](https://zhuanlan.zhihu.com/p/38390005)
+
+## 性能
+- [一个Vue页面的内存泄露分析](https://zhuanlan.zhihu.com/p/38448752)
+
+## 解决方案
+### 页面可视化搭建工具
+- [【第1282期】页面可视化搭建工具前生今世](http://www.10tiao.com/html/293/201805/2651228709/1.html)
+
+### 滚动
+- [【第1279期】无尽滚动的复杂度](http://www.10tiao.com/html/293/201805/2651228694/1.html)
