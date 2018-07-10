@@ -1,1 +1,2 @@
-- [前端路由 director](https://github.com/flatiron/director)
+- [director](https://github.com/flatiron/director) - 前端路由 
+- [Faker-zh-cn](https://www.npmjs.com/package/faker-zh-cn) - 生成一堆假的中文用户（包括名字、IP、地址、手机号码、经纬度等）
