@@ -34,6 +34,9 @@
 - [React v16.3 版本新生命周期函数浅析及升级方案](https://zhuanlan.zhihu.com/p/36062486)
 
 
+## 函数式编程
+- [希望是最浅显易懂的RxJS教程](https://blog.techbridge.cc/2017/12/08/rxjs/)
+
 ## 混合开发
 ### ReactNative
 - [React Native 已死？](https://mp.weixin.qq.com/s/RFcVAcpIjuEqzXTViLA58g) 
