@@ -25,6 +25,8 @@
 - [单页面应用路由实现原理：以 React-Router 为例](https://github.com/youngwind/blog/issues/109)
 
 ## React
+### React 基础
+- [React组件模式](https://segmentfault.com/a/1190000015710309)
 
 ### React 动画
 - [https://juejin.im/post/5a561aedf265da3e2e6263ef](https://juejin.im/post/5a561aedf265da3e2e6263ef)
@@ -40,7 +42,7 @@
 ## 混合开发
 ### ReactNative
 - [React Native 已死？](https://mp.weixin.qq.com/s/RFcVAcpIjuEqzXTViLA58g) 
-
+- [WebView缓存原理分析和应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229156&idx=1&sn=fdd48acd893ddd11ccd2460c46a3c2d1&chksm=bd4952608a3edb76e26d4177c5a7e7fe7f35976afd6b4ebfaa8f3aff2f10362520c53ed65333&scene=38#wechat_redirect)
 
 ## 测试
 - [如何提升 Web 应用的代码质量](https://zhuanlan.zhihu.com/p/38390005)
@@ -55,3 +57,12 @@
 ### 滚动
 - [【第1279期】无尽滚动的复杂度](http://www.10tiao.com/html/293/201805/2651228694/1.html)
 - [如何不择手段提升scroll事件的性能](https://zhuanlan.zhihu.com/p/30078937)
+
+### 前端监控
+- [揭开JS无埋点技术的神秘面纱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229139&idx=1&sn=87a5ca30df9a7dc69ad21c9778e07ab7&chksm=bd4952578a3edb416655cb844a17c396e0cd4350bb304161d06ea49d2513c8a89c5fc8b84cd6&scene=21#wechat_redirect)
+
+
+## 后端
+
+### 登陆系统
+- [八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
