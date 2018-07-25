@@ -1,2 +1,3 @@
 - [director](https://github.com/flatiron/director) - 前端路由 
 - [Faker-zh-cn](https://www.npmjs.com/package/faker-zh-cn) - 生成一堆假的中文用户（包括名字、IP、地址、手机号码、经纬度等）
+- [video: xgplayer](http://h5player.bytedance.com/) - 西瓜播放器，支持倍速播放、弹幕、微信同层播放、微信全屏播放
