@@ -51,18 +51,24 @@
 - [一个Vue页面的内存泄露分析](https://zhuanlan.zhihu.com/p/38448752)
 
 ## 解决方案
-### 页面可视化搭建工具
+## 页面可视化搭建工具
 - [【第1282期】页面可视化搭建工具前生今世](http://www.10tiao.com/html/293/201805/2651228709/1.html)
 
-### 滚动
+## 滚动
 - [【第1279期】无尽滚动的复杂度](http://www.10tiao.com/html/293/201805/2651228694/1.html)
 - [如何不择手段提升scroll事件的性能](https://zhuanlan.zhihu.com/p/30078937)
 
-### 前端监控
+## 前端监控
 - [揭开JS无埋点技术的神秘面纱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229139&idx=1&sn=87a5ca30df9a7dc69ad21c9778e07ab7&chksm=bd4952578a3edb416655cb844a17c396e0cd4350bb304161d06ea49d2513c8a89c5fc8b84cd6&scene=21#wechat_redirect)
+
+## 模块开发
+- [你不知道的前端SDK开发技巧 - TS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229117&idx=1&sn=c6d5e619d81583fd8ac1833518a2fe8f&chksm=bd4952398a3edb2fe1a3a07c5868db901ce059799603f31c339eac9b2c084dfaf0bbf17037c8&scene=38#wechat_redirect)
+- [JavaScript SDK设计指南 - 模块机制、版本、命名空间、消息事件(postmessage)...](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651221415&idx=1&sn=1ce2680fc8b10638d003ab4f0c13e4d3&scene=21#wechat_redirect)
+
+## 前端性能
+- [一个Vue页面的内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229061&idx=1&sn=65277d6ce9e2777a4a79d88609bcd15a&chksm=bd4952018a3edb1758726d7e52e1b8fbf1d94f451fb2d566f95f9dfa3e97d4e19322f7d8c923&scene=38#wechat_redirect)
 
 
 ## 后端
 
-### 登陆系统
 - [八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
