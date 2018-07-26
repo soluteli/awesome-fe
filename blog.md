@@ -6,8 +6,13 @@
 - [【第884期】你不知道的 DOMContentLoaded](http://www.10tiao.com/html/293/201703/2651226247/1.html)
 
 
-## HTML5
+## HTML
 - [Blob 对象的使用](https://github.com/pfan123/code-snippet/issues/10)
+- [关于 video 播放的新探索](https://segmentfault.com/a/1190000015611832)
+- [如何优雅的选择字体(font-family)](https://segmentfault.com/a/1190000006110417)
+
+## emoji
+- [如何将 emoji 当成单色 icon 使用](https://zhuanlan.zhihu.com/p/38767488)
 
 ## 调试的技巧和工具
 - [Chrome 调试第三方 UI 库技巧](https://mp.weixin.qq.com/s/S5t5TJK_Z2wIFrQq_WquuQ)
@@ -44,7 +49,7 @@
 - [React Native 已死？](https://mp.weixin.qq.com/s/RFcVAcpIjuEqzXTViLA58g) 
 - [WebView缓存原理分析和应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229156&idx=1&sn=fdd48acd893ddd11ccd2460c46a3c2d1&chksm=bd4952608a3edb76e26d4177c5a7e7fe7f35976afd6b4ebfaa8f3aff2f10362520c53ed65333&scene=38#wechat_redirect)
 
-## 测试
+## web测试
 - [如何提升 Web 应用的代码质量](https://zhuanlan.zhihu.com/p/38390005)
 
 ## 性能
@@ -71,4 +76,5 @@
 
 ## 后端
 
+### 方案
 - [八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
