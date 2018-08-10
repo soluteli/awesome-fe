@@ -41,6 +41,9 @@
 - [react-v16.0 breaking-changes](https://reactjs.org/blog/2017/09/26/react-v16.0.html#breaking-changes)
 - [React v16.3 版本新生命周期函数浅析及升级方案](https://zhuanlan.zhihu.com/p/36062486)
 
+## VueJS
+- [Vue技术内幕](http://hcysun.me/vue-design/)
+- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## 函数式编程
 - [希望是最浅显易懂的RxJS教程](https://blog.techbridge.cc/2017/12/08/rxjs/)
