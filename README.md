@@ -3,13 +3,10 @@
 - [文章收集](./blog.md)
 - [程序员的进阶之路](./prospects.md)
 
-## 代码片段
-- [代码片段](./snnipets.md)
-
-## 第三方库
+## 收藏仓库
 - [常用库](./vendors.md)
+- [Stars]](./stars.md)
 
 ## 工具
-- [资源导航](./favorites.md)
 - [程序员工具](./tools.md)
 
