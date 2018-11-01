@@ -77,6 +77,8 @@
 ### 模块开发
 - [你不知道的前端SDK开发技巧 - TS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229117&idx=1&sn=c6d5e619d81583fd8ac1833518a2fe8f&chksm=bd4952398a3edb2fe1a3a07c5868db901ce059799603f31c339eac9b2c084dfaf0bbf17037c8&scene=38#wechat_redirect)
 - [JavaScript SDK设计指南 - 模块机制、版本、命名空间、消息事件(postmessage)...](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651221415&idx=1&sn=1ce2680fc8b10638d003ab4f0c13e4d3&scene=21#wechat_redirect)
+- [精读《插件化思维》](https://juejin.im/post/5add9bc46fb9a07ab773d060)
+- [开源的JavaScript插件化框架MinimaJS](https://www.imooc.com/article/25350)
 
 ### Webpack
 - [手摸手，带你用合理的姿势使用webpack4（上）](https://juejin.im/post/5b56909a518825195f499806)
