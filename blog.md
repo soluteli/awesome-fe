@@ -32,11 +32,15 @@
 - [单页面应用路由实现原理：以 React-Router 为例](https://github.com/youngwind/blog/issues/109)
 
 ### React
+#### React 教程
+- [React 小书](http://huziketang.mangojuice.top/books/react/)
+- [Ant Design 实战教程（beta 版）](https://www.yuque.com/ant-design/course)
+
 #### React 基础
 - [React组件模式](https://segmentfault.com/a/1190000015710309)
 - [setState 同步和异步](https://zhuanlan.zhihu.com/p/39512941)
 
-### React 动画
+#### React 动画
 - [React 中常见动画的实现方式](https://juejin.im/post/5a561aedf265da3e2e6263ef)
 
 #### 新生命周期
@@ -91,3 +95,8 @@
 
 ### 权限系统
 - [八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
+
+### Nginx
+- [前端工程师应该知道的nginx](https://arayzou.com/2016/09/20/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84nginx/)
+- [Nginx与前端开发](https://juejin.im/post/5bacbd395188255c8d0fd4b2)
+- [前端必会的 Nginx入门视频教程(共11集)](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
