@@ -55,6 +55,7 @@
 - [希望是最浅显易懂的RxJS教程](https://blog.techbridge.cc/2017/12/08/rxjs/)
 
 ### 可视化和游戏
+- [凹凸实验室](https://aotu.io/index.html) - 介绍了动效和游戏开发的案例
 - [threejs intro](http://davidscottlyons.com/threejs-intro/#slide-1)
 
 ### 混合开发
@@ -87,6 +88,10 @@
 ### Webpack
 - [手摸手，带你用合理的姿势使用webpack4（上）](https://juejin.im/post/5b56909a518825195f499806)
 - [手摸手，带你用合理的姿势使用webpack4（下）](https://juejin.im/post/5b5d6d6f6fb9a04fea58aabc)
+
+### 前端工程和自动化构建
+- [用 husky 和 lint-staged 构建超溜的代码检查工作流](https://zhuanlan.zhihu.com/p/27094880)
+- [基于ESLint、Prettier、lint-staged、pre-commit实现前端代码规范化](https://zhuanlan.zhihu.com/p/45506190)
 
 ## 服务端
 ### Node
