@@ -1,10 +1,8 @@
-- 文章相关
-  - [文章收集](blog.md)
-  - [程序员的进阶之路](prospects.md)
+- [前端职业生涯思考](prospects.md)
 
-- 收藏仓库
-  - [常用库](vendors.md)
-  - [Stars](stars.md)
+- [文章收集](blog.md)
+- [常用轮子](vendors.md)
 
-- 工具
-  - [程序员工具](tools.md)
+- [找轮子和造轮子](stars.md)
+
+- [技术文章写作从 0 到 1](write.md)

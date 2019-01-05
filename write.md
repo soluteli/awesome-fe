@@ -1,2 +1,1 @@
-## 文档
 - [如何撰写技术文档-英文版](https://www.divio.com/blog/documentation/) - 技术文档（documents）分成四种：教程（tutorial）、指导（guide）、解释（explanation）和参考（reference）
