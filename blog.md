@@ -16,6 +16,7 @@
 - [如何将 emoji 当成单色 icon 使用](https://zhuanlan.zhihu.com/p/38767488)
 
 ### 调试的技巧和工具
+- [你不知道的Chrome调试工具技巧](https://juejin.im/post/5c09a80151882521c81168a2)
 - [Chrome 调试第三方 UI 库技巧](https://mp.weixin.qq.com/s/S5t5TJK_Z2wIFrQq_WquuQ)
 - [前端 WebView 指南之调试篇](https://75team.com/post/webview-debug.html)
 - [抓包神器之Charles，常用功能都在这里了](https://blog.csdn.net/mxw2552261/article/details/78645118)
@@ -53,6 +54,7 @@
 
 ### 函数式编程
 - [希望是最浅显易懂的RxJS教程](https://blog.techbridge.cc/2017/12/08/rxjs/)
+- [RxJS 入门指引和初步应用](https://github.com/xufei/blog/issues/44)
 
 ### 可视化和游戏
 - [凹凸实验室](https://aotu.io/index.html) - 介绍了动效和游戏开发的案例
@@ -71,6 +73,7 @@
 
 ### 页面可视化搭建工具
 - [【第1282期】页面可视化搭建工具前生今世](http://www.10tiao.com/html/293/201805/2651228709/1.html)
+- [⬆️ 备用 ⬆️](https://github.com/CntChen/cntchen.github.io/issues/15)
 
 ### 滚动
 - [【第1279期】无尽滚动的复杂度](http://www.10tiao.com/html/293/201805/2651228694/1.html)
