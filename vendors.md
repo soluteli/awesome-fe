@@ -2,6 +2,8 @@
 ### 组件
 - [react-dnd](https://github.com/react-dnd/react-dnd) - React 拖拽组件
 - [react-motion](https://github.com/chenglou/react-motion) - React 动画组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - React 拖拽组件
+- [react-sortable](https://github.com/danielstocks/react-sortable/) - 参见 Purpose of this repo
 
 ### 构建工具
 - [react-app-rewired] - 自定 cra 配置
