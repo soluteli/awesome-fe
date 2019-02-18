@@ -30,8 +30,8 @@
 - [12 React UI Layout Grid Components and Libraries for 2019](https://blog.bitsrc.io/12-react-ui-layout-grid-components-and-libraries-for-2019-16e8aa5d0b08)
 - [react-grid-layout](https://github.com/STRML/react-grid-layout)
 - [dragula](https://bevacqua.github.io/dragula/) - 任务面板和列表拖拽
-- [Sortable](http://rubaxa.github.io/Sortable/) - 任务面板和列表拖拽，动效+
-- [muuri](https://haltu.github.io/muuri/) - Grid 拖拽布局
+- [Sortable](http://rubaxa.github.io/Sortable/) - 任务面板和列表拖拽
+- [muuri](https://haltu.github.io/muuri/) - Grid 拖拽布局和列表拖拽
 
 ## 可视化图表
 - [AntV 语雀主页](https://www.yuque.com/antv) 
