@@ -47,8 +47,10 @@
 #### 新生命周期
 - [react-v16.0 breaking-changes](https://reactjs.org/blog/2017/09/26/react-v16.0.html#breaking-changes)
 - [React v16.3 版本新生命周期函数浅析及升级方案](https://zhuanlan.zhihu.com/p/36062486)
+- [ReactV16.3即将更改的生命周期](https://www.zcfy.cc/article/update-on-async-rendering) - [react-lifecycles-compat](https://github.com/reactjs/react-lifecycles-compat)
 
 ### VueJS
+- [实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf) - vue 源码
 - [Vue技术内幕](http://hcysun.me/vue-design/)
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
