@@ -32,6 +32,9 @@
 - [前端路由简介以及vue-router实现原理](https://segmentfault.com/a/1190000015123061)
 - [单页面应用路由实现原理：以 React-Router 为例](https://github.com/youngwind/blog/issues/109)
 
+### typescript
+- [awesome-typescript](https://github.com/semlinker/awesome-typescript)
+
 ### React
 #### React 教程
 - [React 小书](http://huziketang.mangojuice.top/books/react/)
@@ -100,6 +103,7 @@
 
 ## 服务端
 ### Node
+- [10-node-frameworks-to-use-in-2019](https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019#toc-introduction)
 - [node best practices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md)
 - [node-in-debugging](https://github.com/nswbmw/node-in-debugging)
 
