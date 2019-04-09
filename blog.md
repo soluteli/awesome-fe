@@ -2,9 +2,11 @@
 ### 缓存
 - [HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
 - [【第1250期】彻底理解浏览器的缓存机制 <u>含相关链接</u>](http://www.10tiao.com/html/293/201804/2651228395/1.html)
+- [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/y-yajw1GaWLKUdOJo3cbew)
 
 ### 浏览器
 - [【第884期】你不知道的 DOMContentLoaded](http://www.10tiao.com/html/293/201703/2651226247/1.html)
+- [我所知道的 Web 性能优化策略](https://github.com/rccoder/blog/issues/34)
 
 
 ### HTML
@@ -34,6 +36,9 @@
 - [前端路由的两种实现原理](https://segmentfault.com/a/1190000007238999)
 - [前端路由简介以及vue-router实现原理](https://segmentfault.com/a/1190000015123061)
 - [单页面应用路由实现原理：以 React-Router 为例](https://github.com/youngwind/blog/issues/109)
+
+### ES 标准
+- [普通函数与箭头函数的区别与注意事项](https://mp.weixin.qq.com/s/N0ahVkwVhDpnzGdZyC8jQg)
 
 ### typescript
 - [awesome-typescript](https://github.com/semlinker/awesome-typescript)
@@ -109,6 +114,7 @@
 - [10-node-frameworks-to-use-in-2019](https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019#toc-introduction)
 - [node best practices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md)
 - [node-in-debugging](https://github.com/nswbmw/node-in-debugging)
+- [NodeJS和命令行程序](https://mp.weixin.qq.com/s/-jxYbmcbdt5IvpJC0BYOjg) - 发布对公私有包，常用命令行的库
 
 ### 权限系统
 - [八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
