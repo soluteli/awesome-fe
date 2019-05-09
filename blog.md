@@ -87,6 +87,8 @@
 
 ### 性能
 - [一个Vue页面的内存泄露分析](https://zhuanlan.zhihu.com/p/38448752)
+- [Chrome运行时性能瓶颈分析](https://juejin.im/post/5cd15712e51d453a393af4c5)
+- [google developers - 渲染性能](https://developers.google.com/web/fundamentals/performance/rendering/)
 
 ### 页面可视化搭建工具
 - [【第1282期】页面可视化搭建工具前生今世](http://www.10tiao.com/html/293/201805/2651228709/1.html)
