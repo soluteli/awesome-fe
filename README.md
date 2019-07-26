@@ -1,6 +1,6 @@
 📖 收集前端开发的优秀资源 ❤️️ ️    
 
-[在线预览](https://soluteli.github.io/awesome-fe)效果更佳
+[在线预览](https://soluteli.github.io/awesome-fe)
 
 ## 目录
 - [前端职业生涯思考](prospects.md)
